@@ -1,0 +1,5 @@
+﻿  PriorQueueSource.cpp
+C:\Users\Максим\Desktop\Проги C++\PriorQueue\PriorQueueSource.cpp(25,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\Desktop\Проги C++\PriorQueue\PriorQueueSource.cpp(37,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\Desktop\Проги C++\PriorQueue\PriorQueueSource.cpp(55,51): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  PriorQueue.vcxproj -> C:\Users\Максим\Desktop\Проги C++\PriorQueue\x64\Debug\PriorQueue.exe
